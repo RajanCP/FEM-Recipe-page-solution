@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: https://rajancp.github.io/FEM-Social-links-profile/
+- Solution URL: (https://rajancp.github.io/FEM-Recipe-page-solution/)
 
 ### Built with
 
